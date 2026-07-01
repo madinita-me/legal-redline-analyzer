@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+data/legal_analyzer.db
+data/legal_library/*
+data/exports/*
+!data/legal_library/.gitkeep
+!data/exports/.gitkeep
